@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif
 
-Ce dépôt GitHub regroupe l’ensemble de mes travaux réalisés dans le cadre du "bootcamp intensif en Intelligence Artificielle Générative (GenAI)"  proposé par PST&B (Paris School of Technology & Business).
+Ce dépôt GitHub regroupe l’ensemble de mes travaux réalisés dans le cadre du "bootcamp en Intelligence Artificielle Générative (GenAI)"  proposé par PST&B (Paris School of Technology & Business).
 
 Ce programme de 12 mois en alternance vise à me former aux métiers de l’IA, du Machine Learning avec une spécialisation sur les modèles génératifs et l’écosystème cloud.
 
