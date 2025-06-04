@@ -28,8 +28,8 @@ print(dictionnaire)
 
 alphabet_dict = {}
 
-for i in range(26):  # il y a 26 lettres dans l'alphabet
-    lettre = chr(65 + i)  # 65 = 'A' en ASCII, 66 = 'B', etc.
-    alphabet_dict[i + 1] = lettre  # +1 car on veut commencer à 1
+for i in range(26):  
+    lettre = chr(65 + i)  
+    alphabet_dict[i + 1] = lettre 
 
 print(alphabet_dict)
